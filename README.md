@@ -1,6 +1,9 @@
 # Style_Transfer
 
-**Implementation of neural network style transfer in python using keras with tensorflow backend
+
+## Implementation of neural network style transfer in python using keras with tensorflow backend
+
+
 
 | Original / Content | Filter / Style | Output |
 |-------------------------|------------------------------------|--------------------------------------------|
